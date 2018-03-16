@@ -27,7 +27,7 @@ single cluster is not supported.
 Prerequisites
 -------------
 
--	Kubernetes 1.9+
+- Kubernetes 1.9+
 
 Installing the Chart
 --------------------
